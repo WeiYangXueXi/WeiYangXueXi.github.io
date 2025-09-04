@@ -25,7 +25,7 @@ pip install mkdocs-material
 新建一个文件夹，在该路径下打开终端，并输入
 
 ```
-git clone https://github.com/WeYoung-learn/WeYoung-learn.github.io.git
+git clone https://github.com/WeiYangXueXi/WeiYangXueXi.github.io.git
 ```
 
 该指令会把我们的 GitHub 仓库克隆到您的本地，以便您进行构建和部署。

@@ -6,7 +6,7 @@ comments: true
 
 ## 网站更新日志
 
-???- note "最新更新（2025/07/15）：新增多份社区贡献资料"
+???+ note "最新更新（2025/07/15）：新增多份社区贡献资料"
 
     感谢社区成员的积极贡献！本次更新详情如下：
 
@@ -53,9 +53,9 @@ comments: true
 
 本项目继承自[未央书院学习资料共享计划](https://cloud.tsinghua.edu.cn/d/56275401deeb4670a9d3/)，受到[清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)、[SAST skill docs](https://docs.net9.org/)、[ReadMe 软件学院互助文档](https://ssast-readme.github.io/) 等项目的启发，力图打造一个更全面、**更适合未央书院**的学习交流平台，为同学们的学习发展铺路。
 
-在探索本网站前，请先阅读[读者须知](https://weyoung-learn.github.io/reader/)，了解网站的使用说明、以及如何向我们反馈问题。
+在探索本网站前，请先阅读[读者须知](https://WeiYangXueXi.github.io/reader/)，了解网站的使用说明、以及如何向我们反馈问题。
 
-当然，我们**更希望**你能[加入到我们的团队](https://weyoung-learn.github.io/author/)中，对我们的网站做出贡献。为此，你将收获到纪念品等**丰厚的奖励**。
+当然，我们**更希望**你能[加入到我们的团队](https://WeiYangXueXi.github.io/author/)中，对我们的网站做出贡献。为此，你将收获到纪念品等**丰厚的奖励**。
 
 ## 选课指南
 

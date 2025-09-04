@@ -1,7 +1,7 @@
 site_name: 未央学习
 
-repo_url: https://github.com/WeYoung-learn/WeYoung-learn.github.io
-repo_name: WeYoung-learn
+repo_url: https://github.com/WeiYangXueXi/WeiYangXueXi.github.io
+repo_name: WeiYangXueXi
 
 theme:
   name: material
@@ -201,7 +201,6 @@ nav:
       - 介绍: "resources/index.md"
       - 乐学资源: "resources/lexue/index.md"
   - 资源共享:
-      - 旧书传递: "sharing/books.md"
       - 学习资料共享计划: "sharing/contribution.md"
   - 未央活动:
       - 介绍: "activities/index.md"

@@ -35,7 +35,7 @@ Markdown 是一种轻量级的标记语言。与 Word 等“所见即所得”(W
 - [Typora 官方教程](https://support.typoraio.cn/Quick-Start/)
 - [Markdown with Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
 
-此外，你也可以到本项目的 [GitHub Repo](https://github.com/WeYoung-learn/WeYoung-learn.github.io) 里的 master 分支中下载所有 `.md` 格式的源文件作为案例参考学习。
+此外，你也可以到本项目的 [GitHub Repo](https://github.com/WeiYangXueXi/WeiYangXueXi.github.io) 里的 master 分支中下载所有 `.md` 格式的源文件作为案例参考学习。
 
 ---
 

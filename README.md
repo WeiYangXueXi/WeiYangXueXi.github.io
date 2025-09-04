@@ -1,4 +1,4 @@
-# WeYoung-learn.github.io
+# WeiYangXueXi.github.io
 
 这是一个基于 MkDocs 构建的“未央书院学习资料共享计划”网站。
 
@@ -23,7 +23,7 @@
 
 ## 贡献
 
-我们非常欢迎你为本项目做出贡献！请阅读[贡献指南](https://weyoung-learn.github.io/author/)来了解如何参与。
+我们非常欢迎你为本项目做出贡献！请阅读[贡献指南](https://weiyangxuexi.github.io/author/)来了解如何参与。
 
 ## 许可
 
