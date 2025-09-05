@@ -73,8 +73,8 @@ extra:
   giscus:
     repo: WeiYangXueXi/WeiYangXueXi.github.io
     repo_id: R_kgDOPkkiKw
-    category: Q&A
-    category_id: DIC_kwDOPkkiK84Cu_j4
+    category: General
+    category_id: DIC_kwDOPkkiK84Cu_j3
     mapping: pathname
     strict: 0
     reactions_enabled: 1
