@@ -23,7 +23,7 @@
 
 ## 网络资源
 
-- [未央学习资料共享计划](https://cloud.tsinghua.edu.cn/d/56275401deeb4670a9d3/)：本计划的网盘地址
+- [未央学习资料共享计划](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/)：本计划的网盘地址
 - [TUNA 清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)：清华大学 TUNA 协会运维的镜像站，便于墙内用户下载各类软件。简称“清华源”。类似的镜像网站有：[中科大镜像源](https://mirrors.ustc.edu.cn/)、[华为云](https://mirrors.huaweicloud.com/home)、[阿里云](https://developer.aliyun.com/mirror/)、[网易](https://mirrors.163.com/)等
 - [TsinghuaOverleaf](https://overleaf.tsinghua.edu.cn/)：在线的 LaTeX 编辑网站
 - [清华教参服务平台辅助工具](https://github.com/libthu/reserves-lib-tsinghua-downloader)：教参平台爬虫，可下载每一页的图片并自动生成 PDF

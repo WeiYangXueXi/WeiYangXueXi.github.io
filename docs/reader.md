@@ -6,7 +6,7 @@
 
 ### 一、文档架构
 
-- [**课程指引**](/course_selection/)
+- [**课程指引**](/courses/)
 - [**技能培训**](/skills/)
 - [**资源链接**](/resources/)
 - [**未央活动**](/activities/)

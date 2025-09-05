@@ -51,8 +51,8 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
-
 extra:
+  # 你原有的 analytics 配置，保持不变
   analytics:
     feedback:
       title: Was this page helpful?
@@ -69,14 +69,29 @@ extra:
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
+  # 在这里添加 giscus 的配置
+  giscus:
+    repo: WeiYangXueXi/WeiYangXueXi.github.io
+    repo_id: R_kgDOPkkiKw
+    category: Q&A
+    category_id: DIC_kwDOPkkiK84Cu_j4
+    mapping: pathname
+    strict: 0
+    reactions_enabled: 1
+    emit_metadata: 0
+    input_position: bottom
+    theme: preferred_color_scheme
+    lang: zh-CN
+
+# 你原有的 extra_javascript 配置，保持不变
 extra_javascript:
   - custom_js/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
+# 你原有的 extra_css 配置，保持不变
 extra_css:
   - custom_css/extra.css
-
   
 
 nav:
@@ -93,6 +108,7 @@ nav:
       - 英语篇: "course_selection/english/index.md"
       - 体育篇: "course_selection/pe/index.md"
       - 通识篇: "course_selection/general/index.md"
+      - 写沟篇: "course_selection/academic_writing/index.md"
   - 课程指引:
       - 介绍: "courses/index.md"
       - 基础课:
