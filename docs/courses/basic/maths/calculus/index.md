@@ -2,8 +2,8 @@
 
 ## 网盘链接
 
-- [微积分A(1)](https://cloud.tsinghua.edu.cn/d/b4c7a6b76ad44b6dbc6c/)
-- [微积分A(2)](https://cloud.tsinghua.edu.cn/d/1f27f4dfa80a4fd29775/)
+- [微积分A(1)](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb)
+- [微积分A(2)](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb)
 
 ## 书籍推荐
 

@@ -1,6 +1,6 @@
 # 数学物理方程
 
-## [网盘链接](https://cloud.tsinghua.edu.cn/d/b0a0e356078c470d9a15/)
+## [网盘链接](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb)
 
 网盘中包括了
 

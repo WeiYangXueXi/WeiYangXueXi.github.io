@@ -1,6 +1,6 @@
 # 工程图学基础/机械设计基础(1)
 
-## [网盘链接](https://cloud.tsinghua.edu.cn/d/c8d1eb89fff84eb8b17e/)
+## [网盘链接](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb)
 
 网盘中包括了工程图学基础的
 

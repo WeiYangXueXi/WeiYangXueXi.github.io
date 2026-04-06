@@ -1,6 +1,6 @@
 # 计算机原理与应用
 
-## [网盘链接](https://cloud.tsinghua.edu.cn/d/bad19fa8de8d4bb29604/)
+## [网盘链接](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb)
 
 网盘中包括了
 
